@@ -36,7 +36,7 @@ to your browserify bundle.
 
 ## why?
 
-I have found this useful for embedding code on a page that uses a legacy module loder such as require.js
+I have found this useful for embedding code on a page that uses a legacy module loader such as require.js
 
 
 ## License
