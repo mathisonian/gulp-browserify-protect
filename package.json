@@ -1,6 +1,6 @@
 {
   "name": "gulp-browserify-protect",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "lib/gulp-browserify-protect.js",
   "description": "hide window.require and window.define from browserify modules",
   "homepage": "https://github.com/mathisonian/gulp-browserify-protect",
