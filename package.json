@@ -4,12 +4,10 @@
   "main": "lib/gulp-browserify-protect.js",
   "description": "hide window.require and window.define from browserify modules",
   "homepage": "https://github.com/mathisonian/gulp-browserify-protect",
-  "bugs": "https://github.com/mathisonian/gulp-browserify-protect/issues",
-  "author": {
-    "name": "Matthew Conlen",
-    "email": "code@mathisonian.com",
-    "url": "http://mathisonian.com"
+  "bugs": {
+    "url": "https://github.com/mathisonian/gulp-browserify-protect/issues"
   },
+  "author": "Matthew Conlen <code@mathisonian.com> (http://mathisonian.com)",
   "repository": {
     "type": "git",
     "url": "https://github.com/mathisonian/gulp-browserify-protect"
@@ -27,5 +25,20 @@
   "dependencies": {
     "lodash": "^2.4.1",
     "through2": "~0.4.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "browserify",
+    "requirejs",
+    "amd",
+    "browserify",
+    "and"
+  ],
+  "license": "MIT"
 }
